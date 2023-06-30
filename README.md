@@ -3,7 +3,7 @@ Nginx Reverse Proxy
 
 > Basic nginx reverser proxy implementation using docker, load balancing three nginx http servers.
 
-### A top-level directory layout
+### The directory layout
 
 ├─ reverse-proxy
 │  	├─ Dockerfile
@@ -21,3 +21,4 @@ Nginx Reverse Proxy
 ├─ compose.yaml
 │
 └─ README.md
+
